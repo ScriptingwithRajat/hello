@@ -1,0 +1,23 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+height: 100vh;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    
+background-image: url("https://t3.ftcdn.net/jpg/03/20/36/32/360_F_320363279_azOsqq3UQbtLzUeyfnIiOoDYJ8flwnRN.jpg" );
+background-repeat: no-repeat;
+background-size:100% ;
+}
+div{
+
+color: crimson;
+font-size: 10em;
+font-family: 'Times New Roman', 'Times', 'serif';
+font-weight: 700;
+}
